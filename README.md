@@ -1,4 +1,4 @@
-#NumberHound Data
+#NumberHoundData
 
 This is the main repository for NumberHound data
 
