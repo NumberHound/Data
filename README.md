@@ -1,5 +1,5 @@
-# DogData
+#NumberHound Data
 
-Looking for a new dog? Why not find out what the data says about which dog is right for you!
+This is the main repository for NumberHound data
 
 
