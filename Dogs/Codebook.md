@@ -1,3 +1,5 @@
+## Codebook on the dogs dataset
+
 Informattion on all the variables in the data file
 
 Descirptions on each variable and all data is obtained from [here](https://dogtime.com/)
