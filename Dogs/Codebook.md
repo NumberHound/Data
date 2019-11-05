@@ -1,6 +1,6 @@
 Informattion on all the variables in the data file
 
-Descirptions on each variable and all data is obtained from https://dogtime.com/
+Descirptions on each variable and all data is obtained from [here](https://dogtime.com/)
 
 Every variable except the last four are rated on a scale of 1-5. 5 being the most favourable for an owner based on the variable, 1 being the least. 
 
