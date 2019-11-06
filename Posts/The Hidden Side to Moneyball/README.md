@@ -5,5 +5,5 @@ Last Update: November 7th 2019
 
 The data of movie seconds for each player was self collected and could have some extremely minor inaccurarcies to the second. 
 
-
+The data on all baseball statistics was obtained from [Baseball Reference](https://www.baseball-reference.com/teams/OAK/2002.shtml)
 
