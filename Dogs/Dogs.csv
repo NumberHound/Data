@@ -1,0 +1,293 @@
+Breed,AdaptsWellToApartmentLiving,GoodForNoviceOwners,SensitivityLevel,ToleratesBeingAlone,ToleratesColdWeather,ToleratesHotWeather,AffectionateWithFamily,KidFriendlyDogs,DogFriendly,FriendlyTowardStrangers,AmountOfShedding,DroolingPotential,EasyToGroom,GeneralHealth,PotentialForWeightGain,Size,EasyToTrain,Intelligence,PotentialForMouthiness,PreyDrive,TendencyToBarkOrHowl,WanderlustPotential,EnergyLevel,Intensity,ExerciseNeeds,PotentialForPlayfulness,DogBreedGroup,Height,Weight,LifeSpan
+Afador,1,1,3,3,4,2,4,2,3,1,4,3,2,3,4,4,1,5,4,4,4,4,4,4,4,3,Mixed Breed Dogs,20 to 29 inches,50 to 75 pounds,10 to 12 years
+Affenpinscher,5,4,3,1,3,3,5,1,4,3,1,1,3,4,3,1,2,4,4,3,2,2,4,3,3,4,Companion Dogs,9 inches to 11 inches tall at the shoulder,7 to 9 pounds,12 to 14 years
+Afghan Hound,5,3,5,2,5,5,5,5,4,2,4,1,1,3,1,4,1,4,3,5,2,5,5,2,4,4,Hound Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",50 to 60 pounds,10 to 12 years
+Airedale Terrier,1,2,3,2,3,3,4,4,4,3,2,1,2,3,4,3,4,5,5,5,4,4,5,3,5,5,Terrier Dogs,"1 foot, 9 inches to 1 foot, 11 inches tall at the shoulder",40 to 65 pounds,10 to 13 years
+Akita,2,2,5,1,5,2,5,1,1,2,5,5,1,4,4,4,2,3,3,4,5,4,4,3,4,5,Working Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",70 to 130 pounds,10 to 12 years
+Alaskan Klee Kai,3,2,4,2,5,2,4,3,2,2,4,2,4,4,2,2,4,4,2,5,3,4,4,2,4,4,Companion Dogs,13 to 17 inches,10 to 15 pounds,12 to 16 years
+Alaskan Malamute,1,1,4,1,5,2,4,3,2,5,5,1,1,4,3,4,4,4,3,4,5,5,5,5,5,5,Working Dogs,"1 foot, 11 inches to 2 feet, 1 inch tall at the shoulder",75 to 100 pounds,12 to 15 years
+American Bulldog,1,1,4,1,2,2,5,4,2,2,1,4,4,3,2,4,4,3,2,4,2,3,4,4,4,4,Working Dogs,20 to 28 inches,60 to 120 pounds,10 to 16 years
+American English Coonhound,1,2,5,2,4,4,5,5,4,5,3,1,5,4,3,3,5,4,3,5,5,5,5,5,5,5,Hound Dogs,"1 foot, 11 inches to 2 feet, 2 inches tall at the shoulder",,10 to 12 years
+American Eskimo Dog,5,4,4,2,5,3,5,5,5,4,5,1,3,5,4,2,5,4,3,3,4,3,5,3,4,5,Companion Dogs,"1 foot, 3 inches to 1 foot, 7 inches tall at the shoulder",Starts at 30 pounds,12 to 15 years
+American Foxhound,1,2,2,1,4,4,4,5,5,4,3,1,5,5,5,3,2,3,3,4,5,5,5,4,5,5,Hound Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",40 to 60 pounds,12 to 13 years
+American Leopard Hound,2,4,3,3,4,4,5,4,4,3,2,2,4,4,2,4,4,4,3,4,4,4,4,3,4,4,Hound Dogs,21 to 27 Inches.,35 to 75 pounds.,12 to 15 years.
+American Pit Bull Terrier,3,2,4,1,2,3,5,5,1,5,4,1,5,4,3,3,4,4,5,3,3,4,4,5,4,5,Terrier Dogs,"1 foot, 5 inches to 1 foot, 7 inches tall at the shoulder",30 to 85 pounds,12 to 16 years
+American Pugabull,3,3,4,1,2,3,5,4,3,3,3,3,4,2,3,3,3,3,2,4,4,2,4,4,3,5,Mixed Breed Dogs,12 to 20 inches,25 to 70 pounds,12 to 14 years
+American Staffordshire Terrier,2,2,3,2,2,3,4,4,2,4,2,3,4,3,2,3,4,4,5,3,4,3,3,5,3,4,Terrier Dogs,16 to 19 inches,40 to 60 pounds,10 to 15 years
+American Water Spaniel,2,2,5,1,2,4,5,5,2,3,3,1,3,3,3,3,4,3,5,2,3,5,5,2,5,5,Sporting Dogs,"1 foot, 3 inches to 1 foot, 6 inches tall at the shoulder",25 to 45 pounds,12 to 15 years
+Anatolian Shepherd Dog,1,2,4,3,5,3,3,2,2,1,2,3,4,3,3,5,4,4,2,2,2,4,3,3,3,3,Working Dogs,"2 feet, 3 inches to 2 feet, 5 inches tall at the shoulder",80 to 150 pounds,11 to 13 years
+Appenzeller Sennenhunde,1,3,3,1,5,4,5,5,3,2,3,1,5,4,3,3,4,4,5,3,5,3,4,4,5,4,Herding Dogs,"1 foot, 7 inches to 1 foot, 10 inches tall at the shoulder",48 to 55 pounds,9 to 12 years
+Auggie,2,3,4,3,4,3,5,5,5,4,4,1,2,3,4,3,5,5,3,3,4,3,5,4,5,5,Mixed Breed Dogs,10 to 13 inches,20 to 30 pounds,12 to 15 years
+Aussiedoodle,2,3,3,2,3,3,5,4,4,4,3,4,3,4,4,3,5,5,3,3,2,3,5,4,5,5,Mixed Breed Dogs,10 to 15 inches,25 to 70 pounds,10 to 13 years
+Aussiepom,3,2,3,2,3,3,4,3,4,4,3,2,2,4,4,3,4,4,4,2,3,2,5,3,4,5,Mixed Breed Dogs,11 to 17 inches,10 to 30 pounds,12 to 15 years
+Australian Cattle Dog,2,1,4,3,4,4,5,3,4,2,3,1,4,5,4,3,5,5,5,4,2,4,5,5,5,5,Herding Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",30 to 50 pounds,12 to 15 years
+Australian Kelpie,2,2,4,2,3,5,4,2,3,2,3,1,4,3,2,3,5,5,5,4,4,4,5,3,5,4,Herding Dogs,15 to 20 inches,25 to 46 pounds,10 to 15 years
+Australian Shepherd,1,2,5,2,4,4,5,4,5,3,3,1,1,2,4,3,5,5,4,4,4,5,5,4,5,5,Herding Dogs,"1 foot, 6 inches to 1 foot, 11 inches tall at the shoulder",40 to 65 pounds,12 to 15 years
+Australian Terrier,5,3,2,2,3,4,4,3,2,3,1,1,5,5,3,1,3,4,1,5,5,4,5,5,4,5,Terrier Dogs,10 inches to 11 inches tall at the shoulder,14 to 16 pounds,Up to 15 years
+Azawakh,5,2,3,3,1,5,4,2,3,2,3,1,5,3,3,3,3,3,3,4,1,2,3,2,4,3,Hound Dogs,"1 foot, 11 inches to 2 feet, 5 inches tall at the shoulder",33 to 55 pounds,12 to 15 years
+Barbet,3,2,3,1,4,4,5,4,4,3,2,1,1,4,3,3,4,4,2,3,3,3,5,3,3,4,Sporting Dogs,"1 foot, 8 inches to 2 feet, 1 inch tall at the shoulder",37 to 62 pounds,13 to 15 years
+Basenji,5,4,3,4,1,4,5,5,4,5,1,5,5,2,2,2,1,4,5,5,1,5,5,1,5,2,Hound Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",22 to 24 pounds,10 to 12 years
+Bassador,2,2,3,3,4,4,3,3,3,3,5,4,3,3,3,4,2,3,2,4,3,3,3,2,4,3,Mixed Breed Dogs,13 to 20 inches,45 to 70 pounds,10 to 12 years
+Basset Fauve de Bretagne,4,4,3,3,3,1,5,4,4,3,2,1,4,5,1,2,3,5,3,3,2,1,4,2,4,3,Hound Dogs,12 to 15 inches.,25 to 35 pounds.,12 to 15 years.
+Basset Hound,5,4,4,3,2,2,5,5,5,5,4,4,5,1,5,2,2,4,3,5,4,5,2,2,2,2,Hound Dogs,"Up to 1 foot, 2 inches tall at the shoulder",50 to 65 pounds,10 to 12 years
+Bavarian Mountain Scent Hound,2,3,2,2,2,3,5,4,3,2,1,2,3,4,2,3,3,4,2,4,2,2,4,2,4,4,Hound Dogs,17 to 20 inches.,44 to 55 pounds.,10 to 14 years.
+Beagle,4,3,4,1,2,4,5,5,5,5,3,1,4,1,5,2,1,4,3,5,5,5,4,5,4,5,Hound Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",18 to 30 pounds,10 to 15 years
+Bearded Collie,3,4,4,2,4,3,5,4,5,4,4,1,2,3,4,3,5,4,3,3,3,5,4,4,4,5,Herding Dogs,"1 foot, 8 inches to 1 foot, 10 inches tall at the shoulder",45 to 55 pounds,12 to 14 years
+Bedlington Terrier,4,4,3,3,4,3,5,4,4,5,5,1,1,4,3,3,3,5,4,5,3,4,4,2,4,5,Terrier Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",17 to 23 pounds,14 to 16 years
+Belgian Malinois,1,3,5,3,4,4,5,4,2,3,2,1,5,4,2,4,5,5,3,4,2,3,5,4,5,5,Herding Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",40 to 80 pounds,12 to 14 years
+Belgian Sheepdog,3,3,5,3,4,3,4,5,5,4,5,1,3,3,2,4,5,5,2,5,1,4,5,3,5,5,Herding Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",60 to 75 pounds,10 to 12 years
+Belgian Tervuren,3,3,5,1,4,3,4,3,3,3,4,1,3,3,2,4,5,5,2,2,5,4,5,3,4,5,Herding Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",40 to 70 pounds,10 to 12 years
+Berger Picard,3,4,5,3,4,3,5,5,3,2,4,1,5,5,3,4,4,4,2,3,2,2,5,3,5,5,Herding Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",50 to 70 pounds,13 to 14 years
+Bernedoodle,3,3,4,2,5,3,5,5,4,3,1,2,3,4,3,3,4,5,4,3,3,3,4,3,3,5,Mixed Breed Dogs,"From 10 to 29 inches tall at the shoulder, as sizes vary from tiny to standard",From 10 to 90 pounds,12 to 18 years. Tiny Bernedoodles tend to live longer than standard.
+Bernese Mountain Dog,1,2,4,1,5,1,5,5,3,5,5,4,3,1,4,5,4,4,5,5,4,3,4,3,3,4,Working Dogs,23 to 28 inches,70 to 115 pounds,6 to 10 years
+Bichon Frise,5,5,5,1,3,4,5,4,4,5,2,1,1,4,4,2,5,4,3,4,2,2,5,3,3,5,Companion Dogs,9 inches to 11 inches tall at the shoulder,7 to 12 pounds,12 to 15 years
+Biewer Terrier,5,3,3,3,2,3,5,4,3,3,1,1,4,4,3,1,3,4,3,1,3,1,5,3,3,4,Terrier Dogs,7 to 11 inches,4 to 8 pounds,12 to 15 years
+Black and Tan Coonhound,1,2,3,2,4,4,5,5,5,5,5,3,4,5,5,3,2,5,1,5,5,5,5,5,5,5,Hound Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",75 to 100 pounds,10 to 12 years
+Black Mouth Cur,1,2,4,2,3,3,5,5,3,3,3,2,5,4,2,4,3,4,3,5,4,4,4,3,5,4,Working Dogs,16 to 25 inches,40 to 95 pounds,12 to 18 years
+Black Russian Terrier,3,2,4,1,4,3,5,5,2,3,2,3,2,3,3,5,4,4,4,3,3,3,4,5,4,5,Working Dogs,26 to 28 inches at the shoulder,80 to 140 pounds,10 to 11 years
+Bloodhound,1,2,4,2,3,3,5,5,5,5,4,5,1,3,3,4,3,4,5,3,4,5,5,4,5,3,Hound Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",80 to 110 pounds,11 to 15 years
+Blue Lacy,1,1,4,2,4,5,4,3,2,2,3,2,5,4,2,3,5,5,4,5,5,4,5,5,5,4,Working Dogs,17 to 25 inches,25 to 50 pounds,12 to 16 years
+Bluetick Coonhound,2,2,5,2,3,3,5,5,3,3,2,2,5,4,3,3,2,4,3,4,4,5,5,4,5,5,Hound Dogs,"1 foot, 11 inches to 2 feet, 6 inches tall at the shoulder",45 to 100 pounds,10 to 12 years
+Bocker,5,3,5,1,3,4,5,4,4,4,3,1,3,3,4,2,4,4,4,5,5,5,4,3,4,4,Mixed Breed Dogs,12 to 15 inches,20 to 30 pounds,12 to 15 years
+Boerboel,1,1,3,2,3,4,4,4,2,2,3,4,4,4,3,5,2,4,3,3,3,4,3,4,4,4,Working Dogs,22 to 28 inches,110 to 200 pounds,10 to 12 years
+Boglen Terrier,4,4,4,2,2,3,5,5,5,5,2,1,4,3,3,2,2,2,4,4,4,5,4,5,4,5,Mixed Breed Dogs,12 to 17 inches,10 to 40 pounds,10 to 15 years
+Bolognese,5,3,5,2,2,3,5,5,5,5,1,1,1,5,3,1,5,4,4,5,4,1,3,3,4,3,Companion Dogs,9 inches to 1 foot tall at the shoulder,8 to 14 pounds,12 to 14 years
+Borador,3,3,2,2,3,3,5,4,4,4,4,3,3,3,4,4,4,5,3,3,2,3,4,3,4,5,Hybrid Dogs,19 to 24 inches,40 to 65 pounds,10 to 15 years
+Border Collie,2,2,5,1,4,4,5,4,3,5,3,1,3,2,3,3,5,5,3,3,2,3,5,3,5,5,Herding Dogs,"1 foot, 6 inches to 1 foot, 10 inches tall at the shoulder",30 to 45 pounds,12 to 15 years
+Border Terrier,4,3,3,1,4,3,5,4,2,5,3,1,2,4,5,2,3,5,5,5,1,4,4,4,5,5,Terrier Dogs,10 inches to 11 inches tall at the shoulder,11 to 15 pounds,12 to 15 years
+Bordoodle,4,4,3,3,4,4,4,5,3,2,2,2,4,4,3,3,4,5,3,2,2,3,3,2,3,4,Mixed Breed Dogs,12 to 22 inches,30 to 60 pounds,12 to 15 years
+Borzoi,5,3,5,1,4,3,4,3,4,4,5,1,4,4,2,5,3,4,3,5,2,4,2,2,2,3,Hound Dogs,"2 feet, 2 inches to 2 feet, 8 inches tall at the shoulder",55 to 105 pounds,10 to 12 years
+Boston Terrier,5,4,5,3,3,2,4,5,5,4,2,1,5,4,3,2,4,4,2,2,3,5,4,5,4,5,Companion Dogs,"1 foot to 1 foot, 3 inches tall at the shoulder",10 to 25 pounds,13 to 15 years
+Bouvier des Flandres,3,2,4,2,4,2,5,5,2,2,1,1,2,3,4,4,5,4,2,2,4,2,4,5,4,4,Herding Dogs,"1 foot, 11 inches to 2 feet, 4 inches tall at the shoulder",70 to 100 pounds,10 to 12 years
+Boxer,4,3,4,1,2,1,5,4,3,4,4,2,5,2,4,3,4,4,2,3,3,3,5,5,5,5,Working Dogs,21 to 25 inches at the shoulder,60 to 70 pounds,10 to 12 years
+Boxerdoodle,1,3,3,2,3,3,4,3,4,3,2,2,3,3,4,3,4,4,2,3,2,4,4,4,4,5,Mixed Breed Dogs,10 to 25 inches,12 to 70 pounds,10 to 12 years
+Boxmatian,1,2,3,2,2,4,4,3,2,1,3,2,3,5,4,5,3,4,4,3,3,4,5,4,5,4,Mixed Breed Dogs,19 to 25 inches,50 to 90 pounds,10 to 13 years
+Boykin Spaniel,1,3,4,3,3,4,5,5,4,3,4,1,1,2,4,3,4,4,4,2,3,4,5,5,5,4,Sporting Dogs,"1 foot, 2 inches to 1 foot, 6 inches tall at the shoulder",25 to 40 pounds,10 to 12 years
+Bracco Italiano,1,2,4,3,3,3,5,3,5,3,3,3,5,2,3,4,3,4,3,5,2,3,4,4,5,3,Sporting Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",33 to 88 pounds,12 to 13 years
+Braque du Bourbonnais,1,3,3,2,2,3,5,4,4,4,2,1,4,4,1,3,4,4,3,4,3,2,5,2,5,3,Working Dogs,18 to 23 inches.,35 to 55 pounds.,12 to 15 years.
+Briard,3,3,4,3,4,3,4,5,5,2,1,1,1,3,3,4,4,4,2,3,4,5,4,4,4,4,Herding Dogs,"1 foot, 10 inches to 2 feet, 3 inches tall at the shoulder",70 to 100 pounds,10 to 12 years
+Brittany,1,3,5,1,4,3,5,5,5,4,3,5,3,4,3,3,3,5,3,5,3,4,5,3,5,5,Sporting Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",30 to 40 pounds,10 to 13 years
+Broholmer,2,4,3,3,3,3,5,4,3,3,3,2,4,4,3,5,4,4,3,2,3,2,3,3,3,3,Companion Dogs,22 to 30 inches.,90 to 150 pounds.,8 to 12 years.
+Brussels Griffon,5,2,5,1,1,2,5,4,4,3,3,3,3,3,3,1,3,4,3,1,4,5,5,3,4,5,Companion Dogs,7 inches to 8 inches tall at the shoulder,7 to 12 pounds,12 to 15 years
+Bull Terrier,4,4,5,2,1,4,5,5,4,5,3,1,5,4,5,2,5,4,4,4,1,5,4,5,5,5,Terrier Dogs,"1 foot, 9 inches to 1 foot, 10 inches tall at the shoulder",35 to 75 pounds,10 to 15 years
+Bullboxer Pit,1,2,3,2,2,2,4,4,2,2,4,4,4,4,4,3,2,4,4,5,4,3,5,5,5,4,Mixed Breed Dogs,16 to 20 inches,50 to 80 pounds,10 to 14 years
+Bulldog,5,4,4,3,1,1,5,4,2,5,3,5,5,4,5,2,3,2,2,2,4,1,2,3,3,4,Companion Dogs,"1 foot to 1 foot, 3 inches tall at the shoulder",40 to 50 pounds,8 to 12 years
+Bullmastiff,3,2,4,2,4,2,5,5,4,3,1,5,5,2,5,5,3,3,3,3,4,3,2,4,3,5,Working Dogs,24 to 27 inches at the shoulder,100 to 130 pounds,8 to 10 years
+Bullmatian,2,1,3,3,2,2,4,5,4,3,2,3,4,4,4,3,1,4,3,3,2,3,5,4,4,4,Mixed Breed Dogs,11 to 24 inches,41 to 65 pounds,8 to 12 years
+Cairn Terrier,5,4,3,1,4,4,5,5,4,4,3,1,5,4,3,1,2,5,3,4,4,3,5,4,4,5,Terrier Dogs,9 inches to 10 inches tall at the shoulder,13 to 14 pounds,12 to 15 years
+Canaan Dog,4,4,4,3,3,5,4,2,3,2,4,1,5,5,2,3,5,4,3,3,3,2,4,3,3,4,Herding Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",35 to 55 pounds,12 to 15 years
+Cane Corso,1,1,3,1,3,4,4,2,3,2,3,4,5,3,4,4,4,5,2,5,3,2,4,3,5,2,Working Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",90 to 120 pounds,10 to 12 years
+Cardigan Welsh Corgi,4,4,4,3,4,3,5,4,3,3,4,1,3,4,4,2,4,5,2,4,2,3,3,3,3,4,Herding Dogs,10 inches to 1 foot tall at the shoulder,25 to 38 pounds,12 to 15 years
+Catahoula Bulldog,1,1,2,3,1,5,4,3,2,1,1,1,5,4,3,4,2,3,4,5,3,3,5,5,5,4,Mixed Breed Dogs,24 to 26 inches,75 to 100 pounds,10 to 14 years
+Catahoula Leopard Dog,1,1,2,2,3,3,5,3,1,1,3,1,5,3,3,4,2,3,3,1,3,3,4,3,5,2,Herding Dogs,"1 foot, 8 inches to 2 feet, 2 inches tall at the shoulder",50 to 90 pounds,10 to 14 years
+Caucasian Shepherd Dog,2,1,2,3,5,2,4,2,2,2,4,4,2,3,4,5,2,4,4,3,3,2,2,4,2,3,Working Dogs,24 to 34 inches,80 to 220 pounds,10 to 12 years
+Cav-a- Jack,4,4,3,1,3,3,4,4,4,4,2,2,4,3,4,2,4,4,3,4,3,3,4,3,4,5,Mixed Breed Dogs,10 to 17 inches,13 to 18 pounds,12 to 17 years
+Cavachon,5,5,5,1,3,3,5,5,5,5,2,1,2,4,4,2,4,4,3,4,3,2,4,3,4,5,Mixed Breed Dogs,12 to 13 inches,15 to 35 pounds,10 to 15 years
+Cavador,3,5,4,2,3,3,5,5,4,3,3,2,4,4,4,3,4,4,2,3,3,3,4,3,4,5,Mixed Breed Dogs,18 to 24 inches,22 to 55 pounds,10 to 14 years
+Cavalier King Charles Spaniel,5,5,5,1,3,2,5,5,5,5,3,1,4,4,4,2,4,4,3,3,3,2,3,2,4,5,Companion Dogs,12 to 13 inches at the shoulder,13 to 18 pounds,9 to 15 years
+Cavapoo,3,3,3,2,4,3,5,5,4,4,2,1,3,3,4,2,4,4,3,3,2,3,3,2,3,5,Mixed Breed Dogs,9 to 14 inches,9 to 25 pounds,12 to 15 years
+Cesky Terrier,5,4,4,3,3,3,5,3,2,3,1,1,4,5,4,2,4,3,3,2,3,3,2,3,3,5,Terrier Dogs,"10 inches to 1 foot, 1 inch tall at the shoulder",13 to 30 pounds,10 to 15 years
+Chabrador,4,2,4,3,4,1,4,4,2,2,4,3,4,4,3,3,2,4,4,4,3,3,3,4,3,4,Mixed Breed Dogs,18 to 24 inches,45 to 80 pounds,9 to 13 years
+Cheagle,4,4,4,1,1,2,5,3,3,2,3,1,5,3,4,2,2,4,3,4,4,3,4,4,3,4,Mixed Breed Dogs,9 to 14 inches,9 to 20 pounds,10 to 14 years
+Chesapeake Bay Retriever,1,1,3,2,4,4,5,3,1,1,5,3,5,4,4,3,3,4,3,3,3,4,5,5,5,4,Sporting Dogs,"1 foot, 9 inches to 2 feet, 2 inches tall at the shoulder",55 to 80 pounds,10 to 12 years
+Chi-Poo,5,5,5,4,2,3,5,5,3,3,2,1,3,2,3,2,5,5,3,3,3,3,3,2,2,4,Mixed Breed Dogs,5 to 15 inches,5 to 20 pounds,12 to 15 years
+Chihuahua,5,4,5,1,1,2,5,5,2,2,2,1,5,2,3,1,4,4,3,3,3,2,3,2,1,4,Companion Dogs,6 inches to 9 inches tall at the shoulder,3 to 6 pounds,10 to 18 years
+Chilier,4,2,4,2,2,2,4,4,4,3,2,3,4,4,3,2,2,4,3,3,3,2,4,4,3,4,Mixed Breed Dogs,8 to 12 inches,6 to 12 pounds,12 to 16 years
+Chinese Crested,5,3,5,1,1,3,4,5,4,4,2,1,2,5,2,2,4,3,4,3,3,1,2,1,2,3,Companion Dogs,"11 inches to 1 foot, 1 inch tall at the shoulder",Up to 12 pounds,10 to 14 years
+Chinese Shar- Pei,4,2,2,4,2,1,2,2,1,2,5,2,5,1,4,3,3,2,5,2,5,2,2,1,3,1,Working Dogs,"1 foot, 6 inches to 1 foot, 8 inches tall at the shoulder",40 to 55 pounds,8 to 12 years
+Chinook,4,1,5,1,5,4,5,5,5,4,5,1,2,4,3,4,4,5,3,2,2,2,3,3,3,4,Working Dogs,"1 foot, 9 inches to 2 feet, 3 inches tall at the shoulder",55 to 70 pounds,12 to 15 years
+Chipin,5,4,5,1,1,2,5,4,2,2,2,1,5,3,4,1,4,3,2,3,2,3,4,3,2,5,Mixed Breed Dogs,8 to 12 inches,5 to 15 pounds,10 to 14 years
+Chiweenie,5,3,4,2,1,4,4,2,3,2,1,1,5,3,4,1,2,4,2,3,5,2,4,2,4,5,Mixed Breed Dogs,6 to 10 inches,5 to 12 pounds,12 to 16 years
+Chow Chow,3,2,2,5,5,2,2,1,1,1,1,3,1,2,4,4,2,1,5,2,1,2,2,2,2,1,Working Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",40 to 70 pounds,12 to 15 years
+Chug,5,3,3,3,2,3,5,4,3,3,4,2,4,4,4,1,3,3,3,2,2,2,4,3,3,4,Mixed Breed Dogs,10 to 14 inches,10 to 20 pounds,10 to 13
+Chusky,2,2,3,3,5,2,4,4,3,3,5,2,2,3,3,3,3,4,3,3,4,2,4,3,4,4,Mixed Breed Dogs,18 to 23 inches,40 to 65 pounds,10 to 13 years
+Clumber Spaniel,5,5,4,2,5,2,5,3,4,3,5,5,1,2,5,3,4,3,5,5,1,4,3,1,2,5,Sporting Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",55 to 85 pounds,12 to 12 years
+Cockapoo,4,5,4,3,4,4,5,4,5,4,1,1,3,2,3,2,4,4,2,3,2,3,3,3,3,5,Hybrid Dogs,"From 1 foot, 3 inches tall at the shoulder",Starts at 19 pounds,12 to 15 years
+Cocker Spaniel,5,3,5,1,4,3,5,3,4,3,3,1,1,4,4,2,5,4,4,5,3,4,4,2,3,4,Sporting Dogs,"1 foot, 2 inches to 1 foot, 3 inches tall at the shoulder",24 to 28 pounds,12 to 15 years
+Collie,3,4,5,2,4,3,5,5,4,4,5,1,2,3,3,3,4,4,3,4,4,1,3,2,3,4,Herding Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",50 to 70 pounds,10 to 14 years
+Corgi Inu,4,3,3,3,4,2,3,3,3,2,5,2,2,3,3,2,4,4,3,3,3,2,4,3,4,4,Mixed Breed Dogs,9 to 15 inches,17 to 27 pounds,12 to 15 years
+Corgidor,3,2,4,3,3,3,5,4,3,4,5,2,4,4,4,3,4,5,3,3,2,3,5,3,4,5,Mixed Breed Dogs,12 to 23 inches,40 to 55 pounds,10 to 15 years
+Coton de Tulear,5,4,5,1,3,3,5,5,5,5,1,1,2,5,3,1,3,4,3,1,2,3,3,2,3,5,Companion Dogs,8 inches to 1 foot tall at the shoulder,8 to 13 pounds,Starts at 14 years
+Curly-Coated Retriever,1,3,3,3,4,4,5,5,4,3,3,2,3,2,3,3,4,5,5,5,3,4,5,3,4,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",65 to 100 pounds,9 to 12 years
+Dachsador,4,2,3,2,3,3,4,4,3,4,2,1,4,4,4,2,3,4,2,4,2,4,4,3,4,4,Mixed Breed Dogs,15 to 25 inches,30 to 40 pounds,12 to 14 years
+Dachshund,5,4,4,3,1,3,4,5,3,1,3,1,3,2,5,1,2,4,4,5,5,5,3,3,3,4,Hound Dogs,8 inches to 9 inches tall at the shoulder,16 to 32 pounds,12 to 15 years
+Dalmatian,2,3,4,3,3,4,5,4,4,3,5,1,5,4,4,3,4,4,2,2,2,4,5,4,5,4,Companion Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",48 to 55 pounds,13 to 16 years
+Dandie Dinmont Terrier,4,4,3,2,3,3,5,4,3,3,3,1,2,3,4,1,2,3,3,4,2,3,3,3,2,4,Terrier Dogs,8 inches to 11 inches tall at the shoulder,18 to 24 pounds,12 to 15 years
+Deutscher Wachtelhund,3,3,2,2,4,3,5,4,4,3,3,2,3,5,2,4,4,4,3,4,3,2,4,3,4,4,Sporting Dogs,18 to 21 inches,40 to 55 pounds,12 to 14 years
+Doberdor,1,1,3,2,2,4,3,3,3,1,1,2,4,4,4,5,1,4,3,4,4,4,5,4,5,4,Mixed Breed Dogs,24 to 28 inches,60 to 100 pounds,10 to 14 years
+Doberman Pinscher,3,3,5,2,1,4,5,3,1,3,4,4,5,1,3,4,5,5,2,1,1,2,3,3,3,5,Working Dogs,"2 feet to 2 feet, 4 inches tall at the shoulder",60 to 80 pounds,10 to 13 years
+Docker,3,2,4,2,3,3,5,3,3,2,3,2,3,3,3,2,3,4,5,5,4,5,3,3,3,4,Mixed Breed Dogs,9 to 15 inches,20 to 30 Pounds,12 to 14 Years
+Dogo Argentino,1,1,3,2,2,4,4,2,2,2,1,3,4,3,2,4,2,3,2,5,2,4,4,4,4,3,Sporting Dogs,23 to 27 inches,80 to 100 pounds,9 to 15 years
+Dogue de Bordeaux,5,1,4,2,3,2,5,5,1,1,3,5,5,2,4,4,2,3,4,4,2,1,2,2,5,3,Working Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",Starts at 100 pounds,8 to 12 years
+Dorgi,4,4,3,1,4,3,4,4,4,3,2,2,4,4,4,2,3,4,4,3,3,3,4,4,4,5,Mixed Breed Dogs,9 to12 inches,15 to 28 pounds,12 to 15 years
+Doxiepoo,5,3,4,2,3,3,5,2,1,3,3,,3,2,4,2,3,5,3,4,5,4,4,4,4,5,Mixed Breed Dogs,8 to 23 inches,5 to 30 pounds,10 to 15 years
+Doxle,2,4,4,1,2,4,5,4,5,4,5,1,4,4,4,3,3,4,3,5,5,5,5,4,5,5,Mixed Breed Dogs,5 to 15 inches,11 to 30 pounds,12 to 14 years
+Dutch Shepherd,3,3,3,2,4,4,4,4,4,2,4,2,3,4,2,3,5,4,2,3,2,2,4,3,4,4,Herding Dogs,21 to 25 inches,50 to 70 pounds,12 to 15 years
+English Cocker Spaniel,5,4,5,1,4,3,5,5,5,5,3,1,3,4,5,2,4,5,3,5,4,4,5,3,4,5,Sporting Dogs,"1 foot, 3 inches to 1 foot, 5 inches tall at the shoulder",26 to 34 pounds,12 to 14 years
+English Foxhound,1,2,3,4,3,3,4,4,5,3,3,1,5,4,2,3,3,3,4,5,4,5,5,4,5,5,Hound Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",55 to 75 pounds,10 to 13 years
+English Setter,1,3,4,1,4,3,5,5,5,5,3,2,3,3,5,3,3,5,4,5,4,5,4,2,5,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",45 to 80 pounds,11 to 15 years
+English Springer Spaniel,1,3,4,1,3,4,5,5,5,4,3,1,2,3,3,3,5,5,3,5,3,4,5,3,5,5,Sporting Dogs,"1 foot, 6 inches to 1 foot, 10 inches tall at the shoulder",45 to 55 pounds,9 to 15 years
+English Toy Spaniel,4,4,4,1,2,2,5,1,4,4,5,2,4,2,3,2,3,3,4,4,3,2,3,3,2,4,Companion Dogs,10 inches to 11 inches tall at the shoulder,8 to 14 pounds,10 to 12 years
+Entlebucher Mountain Dog,1,2,4,3,4,2,5,5,3,2,3,1,5,3,3,3,3,4,4,4,5,3,5,4,5,5,Herding Dogs,"1 foot, 4 inches to 1 foot, 8 inches tall at the shoulder",45 to 65 pounds,10 to 13 years
+Eurasier,4,3,2,1,4,3,3,5,4,2,4,3,3,4,2,4,4,4,2,1,2,1,3,2,3,3,Companion Dogs,20 to 24 Inches,40 to 71 lbs,12 to 14 years
+Field Spaniel,1,3,4,1,3,4,5,5,4,4,3,1,4,3,4,2,5,5,3,4,2,5,5,3,5,5,Sporting Dogs,"1 foot, 4 inches to 1 foot, 7 inches tall at the shoulder",37 to 45 pounds,10 to 12 years
+Finnish Lapphund,4,4,4,2,5,2,5,5,5,4,3,1,4,4,4,3,5,5,4,4,3,4,5,5,4,5,Herding Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",33 to 53 pounds,12 to 15 years
+Finnish Spitz,3,3,3,1,5,3,5,5,5,3,4,1,2,4,3,3,3,4,3,3,5,4,5,4,5,5,Sporting Dogs,"1 foot, 3 inches to 1 foot, 8 inches tall at the shoulder",20 to 35 pounds,12 to 15 years
+Flat- Coated Retriever,1,2,5,1,4,4,5,5,5,5,3,2,4,4,4,3,4,5,3,3,4,4,5,4,5,5,Sporting Dogs,"1 foot, 10 inches to 2 feet tall at the shoulder",55 to 70 pounds,10 to 12 years
+Fox Terrier,3,3,3,3,3,4,4,4,3,3,2,1,2,4,2,2,5,5,3,5,3,3,5,5,5,5,Terrier Dogs,"Up to 1 foot, 3 inches tall at the shoulder",15 to 19 pounds,10 to 15 years
+French Bulldog,5,5,3,1,2,1,5,4,4,4,3,1,5,2,4,2,4,3,3,2,3,2,3,4,2,5,Companion Dogs,11 inches to 1 foot tall at the shoulder,16 to 28 pounds,11 to 14 years
+French Spaniel,2,4,4,3,4,2,5,4,4,4,3,2,3,4,2,3,4,4,2,3,2,2,5,3,4,4,Sporting Dogs,21 to 24 inches.,45 to 60 pounds.,10 to 12 years.
+German Pinscher,3,3,4,3,3,4,5,3,2,2,3,1,5,4,3,3,4,5,3,5,3,4,5,3,5,5,Working Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",25 to 45 pounds,12 to 14 years
+German Shepherd Dog,3,2,5,2,4,3,5,5,2,4,5,1,5,4,2,4,5,5,5,4,4,2,5,5,5,5,Herding Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",75 to 95 pounds,10 to 14 years
+German Sheprador,2,1,5,2,4,4,5,5,4,4,5,2,5,3,3,4,5,5,5,3,2,2,5,5,5,5,Mixed Breed Dogs,20 to 27 inches,60 to 95 pounds,10 to 12 years
+German Shorthaired Pointer,1,2,4,1,2,4,5,5,4,3,2,2,5,3,3,3,5,5,4,5,3,5,5,3,5,5,Sporting Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",45 to 70 pounds,12 to 15 years
+German Spitz,4,2,3,3,3,2,5,4,3,3,4,1,2,4,4,1,2,4,4,5,4,2,5,3,4,4,Companion Dogs,12 to 15 inches,21 to 29 pounds,13 to 15 years
+German Wirehaired Pointer,2,3,4,2,3,4,5,3,3,2,2,2,4,4,3,4,4,5,4,4,3,5,5,4,5,5,Sporting Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",60 to 70 pounds,12 to 14 years
+Giant Schnauzer,1,1,4,2,4,2,5,3,3,2,4,1,2,4,3,4,5,4,3,4,4,4,5,2,5,5,Working Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",55 to 80 pounds,10 to 12 years
+Glen of Imaal Terrier,4,2,3,3,3,4,5,5,2,3,1,1,5,5,3,1,4,4,3,5,4,3,4,5,4,4,Terrier Dogs,"1 foot to 1 foot, 2 inches tall at the shoulder",Up to 35 pounds,12 to 15 years
+Goberian,1,2,3,2,5,2,4,4,4,2,2,1,5,4,4,4,2,5,3,4,2,4,5,4,5,4,Mixed Breed Dogs,20 to 24 inches,45 to 90 pounds,10 to 15 years
+Goldador,2,4,3,4,5,4,5,5,5,5,3,2,4,4,3,4,4,5,2,1,1,4,5,5,5,5,Hybrid Dogs,"1 foot, 10 inches to 2 feet tall at the shoulder",60 to 80 pounds,10 to 15 years
+Golden Cocker Retriever,1,4,4,1,2,4,5,4,4,3,4,1,4,4,4,3,4,4,2,2,3,4,5,2,4,5,Mixed Breed Dogs,20 to 24 inches,30 to 45 pounds,12 to 15 years
+Golden Retriever,2,3,5,1,3,3,5,5,5,5,5,4,2,2,5,3,5,5,5,3,3,2,5,2,5,5,Sporting Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",55 to 75 pounds,10 to 12 years
+Goldendoodle,1,4,4,3,3,3,5,5,5,4,2,1,4,3,3,4,4,5,1,1,3,3,4,3,5,5,Hybrid Dogs,"1 foot, 8 inches to 2 feet tall at the shoulder",50 to 90 pounds,10 to 15 years
+Gollie,1,4,3,2,3,3,5,5,4,4,4,2,3,3,4,3,4,4,2,2,2,4,5,3,4,5,Mixed Breed Dogs,22 to 26 inches,50 to 75 pounds,12 to 15 years
+Gordon Setter,2,3,4,1,4,3,5,3,2,3,5,3,2,4,3,3,5,5,3,4,5,4,5,2,5,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",45 to 80 pounds,10 to 12 years
+Great Dane,1,1,5,1,2,3,5,5,5,5,5,4,5,4,2,5,5,3,2,3,4,3,5,5,5,5,Working Dogs,"2 feet, 4 inches to 2 feet, 10 inches tall at the shoulder",100 to 200 pounds,7 to 10 years
+Great Pyrenees,1,1,4,3,5,3,5,4,4,3,5,2,4,2,4,5,1,4,2,5,5,5,5,5,5,4,Working Dogs,"2 feet, 1 inch to 2 feet, 8 inches tall at the shoulder",85 to 160 pounds,10 to 12 years
+Greater Swiss Mountain Dog,1,2,4,3,5,1,5,5,5,3,3,1,5,2,4,5,3,3,3,4,4,3,5,4,3,5,Working Dogs,"1 foot, 11 inches to 2 feet, 4 inches tall at the shoulder",85 to 140 pounds,7 to 9 years
+Greyhound,4,2,5,1,1,5,5,5,4,5,4,5,5,4,5,4,5,5,4,5,2,5,5,3,5,4,Hound Dogs,"2 feet, 1 inch to 2 feet, 6 inches tall at the shoulder",50 to 85 pounds,12 to 15 years
+Harrier,1,3,2,3,3,4,4,5,5,5,3,1,5,5,3,3,2,4,3,4,4,5,5,4,5,5,Hound Dogs,"1 foot, 7 inches to 1 foot, 9 inches tall at the shoulder",45 to 60 pounds,10 to 12 years
+Havanese,5,5,4,1,3,4,5,4,5,5,2,1,1,3,4,2,5,4,3,4,2,2,3,2,3,5,Companion Dogs,8 inches to 11 inches tall at the shoulder,7 to 13 pounds,12 to 15 years
+Hokkaido,3,2,2,3,5,2,4,4,3,3,4,2,1,5,3,3,3,4,3,4,3,3,3,2,3,3,Working Dogs,18 to 22 Inches,45 to 65 Pounds,11 to 13 Years
+Horgi,2,2,4,2,4,3,5,5,4,5,4,2,3,3,3,2,4,4,4,4,3,3,4,3,4,4,Mixed Breed Dogs,12 to 15 inches,20 to 50 pounds,12 to 15 years
+Ibizan Hound,5,3,4,2,1,4,5,5,5,4,3,1,5,4,1,3,3,4,3,5,2,5,5,3,5,5,Hound Dogs,"1 foot, 10 inches to 2 feet, 3 inches tall at the shoulder",45 to 50 pounds,10 to 14 years
+Icelandic Sheepdog,1,1,3,2,5,3,4,4,2,2,5,1,1,3,3,3,3,4,3,4,1,4,4,5,4,4,Herding Dogs,"1 foot, 4 inches to 1 foot, 6 inches tall at the shoulder",20 to 30 pounds,14 to 15 years
+Irish Red and White Setter,1,3,4,1,4,3,5,4,4,4,3,1,3,2,2,3,4,4,4,3,3,4,5,5,5,5,Sporting Dogs,"1 foot, 10 inches to 2 feet, 2 inches tall at the shoulder",50 to 70 pounds,10 to 14 years
+Irish Setter,1,3,4,2,4,3,5,5,5,5,4,2,3,2,3,4,4,5,5,5,4,5,5,3,5,5,Sporting Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",60 to 70 pounds,11 to 15 years
+Irish Terrier,3,2,3,2,4,4,5,5,1,3,4,1,2,5,3,3,1,4,1,2,4,3,5,4,4,5,Terrier Dogs,"1 foot, 6 inches to 1 foot, 8 inches tall at the shoulder",25 to 27 pounds,12 to 16 years
+Irish Water Spaniel,3,2,4,3,4,4,5,5,4,5,1,2,3,2,3,3,5,4,3,5,4,3,5,3,5,4,Sporting Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",45 to 65 pounds,10 to 12 years
+Irish Wolfhound,1,2,3,2,4,2,5,5,5,5,3,1,3,1,3,5,3,4,3,5,1,3,2,2,4,4,Hound Dogs,"2 feet, 8 inches to 2 feet, 11 inches tall at the shoulder",115 to 180 pounds,6 to 8 years
+Italian Greyhound,5,5,5,1,1,3,5,5,4,4,2,1,5,3,2,2,3,3,4,5,3,3,4,2,4,4,Companion Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",6 to 15 pounds,14 to 15 years
+Jack Chi,4,2,3,3,2,4,4,5,4,3,2,2,5,4,4,2,2,4,2,4,2,4,4,4,4,5,Mixed Breed Dogs,12 to 15 inches,8 to 18 pounds,13 to 18 years
+Jack Russell Terrier,3,2,3,3,4,3,5,4,5,4,3,1,3,4,4,2,4,5,4,5,4,4,5,5,5,5,Terrier Dogs,"10 inches to 1 foot, 3 inches tall at the shoulder",13 to 17 pounds,10 to 15 years
+Japanese Chin,5,4,3,1,3,2,3,3,3,4,3,1,3,3,3,1,3,3,4,3,3,1,2,1,2,4,Companion Dogs,8 inches to 11 inches tall at the shoulder,4 to 9 pounds,10 to 14 years
+Japanese Spitz,4,4,3,2,4,3,4,5,4,2,3,1,4,3,2,2,4,4,2,2,4,2,3,2,3,4,Companion Dogs,10 to 16 inches,11 to 20 pounds,10 to 16 years
+Karelian Bear Dog,2,1,4,2,5,3,4,3,1,2,3,1,4,4,2,3,2,4,4,5,4,5,4,5,4,4,Working Dogs,19 to 24 inches,44 to 50 pounds,10 to 13 years
+Keeshond,4,4,5,1,5,3,5,5,4,4,5,1,3,3,4,3,4,4,3,3,4,2,4,3,3,5,Companion Dogs,"1 foot, 4 inches to 1 foot, 7 inches tall at the shoulder",35 to 45 pounds,12 to 15 years
+Kerry Blue Terrier,3,2,3,3,4,3,4,4,2,5,1,1,2,3,3,3,4,4,4,3,4,3,4,4,5,4,Terrier Dogs,"1 foot, 5 inches to 1 foot, 7 inches tall at the shoulder",33 to 40 pounds,12 to 15 years
+Komondor,2,1,4,1,4,3,5,3,1,1,3,2,2,2,3,4,4,4,3,2,5,4,2,1,4,4,Working Dogs,"2 feet, 1 inch to 2 feet, 3 inches tall at the shoulder",80 to 100 pounds,10 to 12 years
+Kooikerhondje,4,3,4,2,4,3,3,2,2,2,3,1,2,5,3,3,1,4,3,3,3,3,4,5,5,4,Sporting Dogs,"1 foot, 2 inches to 1 foot, 4 inches tall at the shoulder",20 to 25 pounds,12 to 14 years
+Korean Jindo Dog,3,2,3,2,5,2,5,3,3,4,5,1,1,4,2,3,2,5,2,5,,5,4,4,5,4,Sporting Dogs,19½ to 21 inches for males and 18½ to 20 inches for females,35 - 60 pounds,12 - 15 years
+Kuvasz,1,1,5,1,5,2,5,1,2,1,4,3,4,4,4,5,2,4,1,1,3,3,4,4,5,4,Working Dogs,"2 feet, 2 inches to 2 feet, 6 inches tall at the shoulder",70 to 115 pounds,10 to 12 years
+Kyi- Leo,5,4,3,4,5,2,5,5,4,3,2,1,2,3,3,2,3,3,4,1,4,2,4,3,2,4,Mixed Breed Dogs,8 to 12 inches,8 to 14 pounds,13 to 15 years
+Lab Pointer,1,4,3,1,4,4,5,4,3,4,2,2,4,4,4,4,5,4,2,4,2,4,5,3,5,4,Mixed Breed Dogs,22 to 28 inches,35 to 80 pounds,10 to 15 years
+Labernese,2,4,4,1,4,2,4,5,4,3,4,3,3,2,4,4,3,4,3,3,2,4,4,2,4,5,Mixed Breed Dogs,24 to 28 inches,65 to 110 pounds,6 to 12 years
+Labmaraner,1,4,4,1,3,3,4,5,4,3,1,2,4,4,4,4,4,4,3,3,3,4,4,3,5,5,Mixed Breed Dogs,21 to 24 inches,60 to 100 pounds,10 to 12 years
+Labrabull,2,2,4,1,3,3,5,5,2,5,5,2,5,3,3,4,5,5,5,3,3,4,5,5,4,5,Mixed Breed Dogs,20 to 24 inches,45 to 90 pounds,10 to 14 years
+Labradane,1,2,3,2,4,4,5,5,4,3,2,3,4,4,4,5,3,4,2,3,1,3,4,2,4,5,Mixed Breed Dogs,24 to 30 inches,100 to 180 pounds,8 to 12 years
+Labradoodle,3,4,3,4,5,4,5,4,5,5,3,1,4,4,3,4,4,4,1,2,2,3,5,4,5,5,Hybrid Dogs,21 to 24 inches at the shoulder,50 to 65 pounds,12 to 14 years
+Labrador Retriever,1,3,5,2,3,3,5,5,5,5,5,3,5,3,5,4,5,5,5,2,4,3,5,5,5,5,Sporting Dogs,21 to 24 inches at the shoulder,55 to 80 pounds,10 to 12 years
+Labrastaff,2,2,4,1,3,3,4,4,3,4,4,3,3,4,4,4,2,4,3,3,3,4,4,3,4,4,Mixed Breed Dogs,17 to 24 inches,40 to 80 pounds,10 to 14 years
+Labsky,2,2,2,2,5,1,5,4,3,3,4,2,2,3,4,4,4,5,3,4,4,4,5,4,5,5,Mixed Breed Dogs,20 to 28 inches,40 to 60 pounds,10 to 12 years
+Lagotto Romagnolo,2,4,3,3,4,3,3,3,3,3,1,2,1,4,3,2,4,4,2,4,3,3,4,2,4,4,Sporting Dogs,14 to 19 inches,24 to 35 pounds,14 to 17 years
+Lakeland Terrier,4,3,3,2,4,4,5,4,3,3,2,1,2,5,3,2,2,4,1,4,2,3,5,4,4,4,Terrier Dogs,"1 foot, 1 inch to 1 foot, 2 inches tall at the shoulder",15 to 17 pounds,12 to 15 years
+Lancashire Heeler,2,2,3,3,3,3,4,3,3,2,3,1,4,4,4,1,3,4,2,2,2,4,4,4,3,4,Herding Dogs,10 inches to 1 foot tall at the shoulder,13 to 15 pounds,9 to 14 years
+Leonberger,1,1,4,2,5,1,5,4,3,2,5,3,4,1,4,5,2,3,4,4,3,2,4,4,4,4,Working Dogs,"2 feet, 1 inch to 2 feet, 7 inches tall at the shoulder",120 to 170 pounds,10 to 12 years
+Lhasa Apso,5,5,5,4,3,2,4,4,3,2,3,1,1,3,3,1,3,4,3,4,4,2,4,3,3,5,Companion Dogs,9 inches to 11 inches tall at the shoulder,12 to 15 pounds,12 to 15 years
+Lowchen,5,4,3,1,3,3,5,5,4,4,3,1,3,5,3,1,5,4,3,4,4,5,4,3,4,5,Companion Dogs,"1 foot to 1 foot, 2 inches tall at the shoulder",9 to 18 pounds,13 to 15 years
+Maltese,5,5,4,1,1,3,5,3,4,2,2,1,2,3,3,1,4,4,3,4,2,1,3,3,2,4,Companion Dogs,8 inches to 10 inches tall at the shoulder,Up to 7 pounds,12 to 15 years
+Maltese Shih Tzu,5,5,3,3,2,2,4,3,3,3,1,1,2,2,3,1,4,3,4,5,4,1,3,2,3,3,Hybrid Dogs,From 10 inches tall at the shoulder,6 to 12 pounds,12 to 14 years
+Maltipoo,5,5,5,1,2,3,5,4,4,4,1,1,3,2,2,2,5,4,3,2,5,4,3,3,2,4,Hybrid Dogs,"8 inches to 1 foot, 2 inches tall at the shoulder",5 to 20 pounds,10 to 13 years
+Manchester Terrier,5,3,3,3,1,3,4,3,3,3,3,1,5,2,4,2,2,4,2,4,4,4,4,4,4,4,Terrier Dogs,"1 foot, 3 inches to 1 foot, 4 inches tall at the shoulder",12 to 22 pounds,14 to 16 years
+Mastador,1,2,4,3,4,2,5,5,3,3,4,4,4,4,4,4,4,4,4,2,2,2,4,4,4,4,Mixed Breed Dogs,28 to 36 inches,85 to 160 pounds,10 to 12 years
+Mastiff,2,1,3,3,4,1,5,5,2,2,3,5,3,3,4,5,3,2,4,2,2,1,3,3,4,4,Working Dogs,"2 feet, 3 inches to 2 feet, 8 inches tall at the shoulder",130 to 220 pounds,6 to 10 years
+Miniature Pinscher,5,3,5,2,1,3,5,3,2,3,2,1,5,3,5,1,3,3,2,3,1,5,4,3,4,5,Companion Dogs,10 inches to 1 foot tall at the shoulder,8 to 11 pounds,10 to 14 years
+Miniature Schnauzer,4,3,4,5,4,4,5,3,3,3,2,1,2,3,4,2,5,4,2,4,3,3,5,3,5,4,Terrier Dogs,"1 foot to 1 foot, 2 inches tall at the shoulder",11 to 20 pounds,12 to 14 years
+Morkie,3,2,3,2,2,3,4,3,2,3,1,1,3,4,4,1,3,4,5,3,5,2,4,3,4,5,Mixed Breed Dogs,4 to 8 inches,7 to 13 pounds,10 to 14 years
+Mudi,2,4,4,2,3,3,4,2,2,2,3,1,4,4,2,2,5,4,3,4,4,4,4,2,4,4,Herding Dogs,14 to 20 inches,18 to 29 pounds,12 to 14 years
+Mutt,3,3,3,3,3,3,4,3,3,3,3,3,3,4,3,3,4,4,3,3,3,3,3,3,3,3,Mixed Breed Dogs,,,8 to 15 years
+Neapolitan Mastiff,2,1,4,1,1,2,5,4,2,1,3,5,3,2,5,5,3,3,2,1,1,1,3,1,3,4,Working Dogs,"2 feet to 2 feet, 7 inches tall at the shoulder",120 to 200 pounds,8 to 10 years
+Newfoundland,1,3,4,1,5,2,5,5,4,4,5,5,2,1,4,5,5,4,3,4,4,3,3,1,3,4,Working Dogs,"2 feet, 1 inch to 2 feet, 5 inches tall at the shoulder",100 to 150 pounds,8 to 10 years
+Norfolk Terrier,4,5,4,3,4,4,5,4,5,4,1,1,4,5,5,1,5,4,2,1,3,4,4,4,4,5,Terrier Dogs,9 inches to 10 inches tall at the shoulder,11 to 12 pounds,12 to 15 years
+Norwegian Buhund,3,3,3,4,5,2,5,5,3,3,3,1,2,4,3,3,4,3,3,2,4,4,4,4,5,5,Herding Dogs,"1 foot, 4 inches to 1 foot, 6 inches tall at the shoulder",26 to 40 pounds,12 to 15 years
+Norwegian Elkhound,4,4,4,2,5,3,5,4,4,4,5,1,3,4,4,3,2,4,3,4,4,4,5,3,5,4,Hound Dogs,"1 foot, 7 inches to 1 foot, 8 inches tall at the shoulder",,12 to 15 years
+Norwegian Lundehund,1,1,3,2,5,3,5,5,5,5,5,1,4,3,3,3,4,5,3,2,1,5,4,4,5,5,Working Dogs,"1 foot to 1 foot, 3 inches tall at the shoulder",13 to 16 pounds,10 to 12 years
+Norwich Terrier,5,3,4,2,4,4,5,5,5,5,2,1,2,4,5,1,4,4,4,3,4,4,5,4,4,5,Terrier Dogs,Up to 10 inches tall at the shoulder,Up to 12 pounds,10 to 14 years
+Nova Scotia Duck Tolling Retriever,5,3,3,2,4,4,5,5,4,4,3,1,5,4,4,3,4,5,4,5,4,3,5,3,5,5,Sporting Dogs,"1 foot, 5 inches to 1 foot, 9 inches tall at the shoulder",35 to 50 pounds,10 to 14 years
+Old English Sheepdog,5,4,4,2,4,2,5,4,4,4,1,4,1,4,4,4,3,4,2,3,1,2,4,3,4,4,Herding Dogs,"From 1 foot, 9 inches tall at the shoulder",,10 to 12 years
+Otterhound,1,4,2,5,4,3,5,5,5,4,4,1,2,4,3,4,2,4,3,5,2,5,5,4,5,5,Hound Dogs,"2 feet to 2 feet, 3 inches tall at the shoulder",,10 to 12 years
+Papillon,5,5,3,1,2,4,5,3,4,5,2,1,3,3,3,1,5,4,3,4,2,1,4,3,5,5,Companion Dogs,8 inches to 11 inches tall at the shoulder,4 to 9 pounds,12 to 16 years
+Peekapoo,5,5,4,2,3,2,5,4,4,3,2,1,2,3,4,1,3,4,4,3,4,1,3,2,3,4,Hybrid Dogs,Up to 11 inches tall at the shoulder,4 to 20 pounds,10 to 15 years
+Pekingese,5,4,2,3,4,1,5,2,2,2,4,1,1,2,3,1,3,4,3,5,4,3,2,1,2,3,Companion Dogs,6 inches to 9 inches tall at the shoulder,7 to 14 pounds,12 to 15 years
+Pembroke Welsh Corgi,4,4,4,3,4,3,5,4,3,5,5,1,4,3,4,2,5,5,2,3,2,2,4,3,4,4,Herding Dogs,10 inches to 1 foot tall at the shoulder,Up to 30 pounds,12 to 14 years
+Petit Basset Griffon Vendeen,4,3,3,3,4,3,5,5,5,5,4,1,2,3,4,2,1,4,3,5,5,5,5,4,5,5,Hound Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",30 to 40 pounds,Starts at 14 years
+Pharaoh Hound,4,4,5,2,1,5,5,5,5,4,2,1,4,5,3,3,3,4,4,5,4,4,2,3,4,4,Hound Dogs,"1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder",45 to 55 pounds,11 to 14 years
+Pitsky,2,1,4,1,3,3,5,5,3,5,4,2,3,4,2,3,3,3,4,3,4,4,4,4,5,5,Mixed Breed Dogs,16 to 25 inches,30 to 80 pounds,12 to 16 years
+Plott,1,1,4,2,2,4,4,3,5,3,2,1,5,5,3,3,4,3,3,5,1,5,4,4,5,3,Hound Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",40 to 75 pounds,12 to 14 years
+Pocket Beagle,4,3,4,2,2,4,5,5,5,4,3,1,5,3,5,2,3,4,4,3,5,5,4,4,4,4,Hound Dogs,7 inches to 1 foot tall at the shoulder,7 to 15 pounds,Starts at 10 years
+Pointer,1,1,3,1,2,4,5,5,5,5,3,1,5,3,3,3,5,5,5,5,3,5,5,5,5,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 4 inches tall at the shoulder",45 to 75 pounds,12 to 15 years
+Polish Lowland Sheepdog,4,2,4,3,4,4,5,4,3,3,1,1,1,4,3,3,4,4,3,3,2,3,4,3,4,4,Herding Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",35 to 55 pounds,10 to 12 years
+Pomapoo,5,5,4,1,3,2,5,3,3,3,3,1,1,3,4,1,4,4,3,2,3,1,3,3,3,4,Mixed Breed Dogs,8 to 10 inches,5 to 15 pounds,12 to 15 years
+Pomchi,4,3,3,3,2,4,4,3,3,3,3,1,2,5,4,1,3,4,4,3,4,3,3,4,3,4,Mixed Breed Dogs,6 to 10 inches,4 to 12 pounds,12 to 18 years
+Pomeagle,4,4,4,1,3,2,5,3,3,3,4,1,2,3,4,1,3,2,3,3,5,4,4,3,3,4,Mixed Breed Dogs,6 to 11 inches,5 to 25 pounds,12 to 15 years
+Pomeranian,4,4,4,1,4,2,5,2,2,3,4,1,2,3,4,1,4,4,2,2,5,1,3,2,2,3,Companion Dogs,7 inches to 1 foot tall at the shoulder,3 to 7 pounds,12 to 16 years
+Pomsky,5,2,4,1,5,3,5,2,3,3,4,1,2,3,3,2,3,4,3,4,5,2,4,2,3,4,Mixed Breed Dogs,10 to 15 inches,7 to 38 pounds,12 to 15 years
+Poochon,5,5,5,1,3,4,5,5,4,4,1,1,1,3,4,2,5,4,3,3,2,2,4,3,4,5,Mixed Breed Dogs,9 to 15 inches,6 to 17 pounds,12 to 15 years
+Poodle,5,5,4,1,3,4,5,5,4,4,1,1,1,2,4,4,5,5,4,2,2,3,4,3,4,5,Companion Dogs,"From 1 foot, 10 inches tall at the shoulder",45 to 70 pounds,12 to 15 years
+Portuguese Podengo Pequeno,5,4,3,3,2,3,4,4,4,4,3,1,4,4,2,1,4,3,3,4,4,3,5,3,3,3,Hound Dogs,8 to 12 inches,9 to 13 pounds,12 to 15 years
+Portuguese Water Dog,4,3,4,2,4,3,5,5,5,3,1,1,2,4,3,3,4,5,5,3,3,3,5,3,5,5,Working Dogs,"1 foot, 5 inches to 1 foot, 11 inches tall at the shoulder",35 to 60 pounds,10 to 14 years
+Pug,5,5,3,1,2,1,5,4,4,4,5,1,5,1,5,2,3,2,2,3,2,2,3,4,3,5,Companion Dogs,"10 inches to 1 foot, 2 inches tall at the shoulder",14 to 18 pounds,12 to 15 years
+Puggle,4,5,3,3,3,3,3,5,5,5,3,1,5,4,5,2,2,3,3,2,4,5,3,2,3,3,Hybrid Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",18 to 30 pounds,10 to 15 years
+Puli,4,1,4,2,4,3,5,5,5,2,1,1,1,5,3,3,2,4,3,4,4,5,5,5,5,5,Herding Dogs,"1 foot, 4 inches to 1 foot, 5 inches tall at the shoulder",25 to 35 pounds,10 to 15 years
+Pyrenean Shepherd,5,2,4,1,4,3,5,5,2,2,3,1,3,2,3,2,2,4,3,4,5,2,4,5,5,5,Herding Dogs,"1 foot, 3 inches to 1 foot, 9 inches tall at the shoulder",25 to 30 pounds,15 to 17 years
+Rat Terrier,5,3,4,3,1,4,4,5,3,4,4,1,5,4,3,1,5,4,2,4,1,4,5,4,4,5,Terrier Dogs,"1 foot, 1 inch to 1 foot, 4 inches tall at the shoulder",,13 to 18 years
+Redbone Coonhound,4,2,5,2,3,2,5,5,4,3,2,4,5,3,3,3,3,4,4,4,4,5,4,4,5,5,Hound Dogs,"1 foot, 9 inches to 2 feet, 3 inches tall at the shoulder",45 to 70 pounds,10 to 12 years
+Rhodesian Ridgeback,1,2,4,2,3,3,5,4,4,3,4,1,5,4,3,4,2,4,3,5,1,5,4,4,5,5,Hound Dogs,"2 feet to 2 feet, 3 inches tall at the shoulder",70 to 85 pounds,10 to 12 years
+Rottweiler,2,1,4,1,2,3,5,4,2,4,4,4,5,2,5,3,4,5,3,4,4,2,4,4,4,5,Working Dogs,"1 foot, 10 inches to 2 feet, 3 inches tall at the shoulder",85 to 130 pounds,8 to 11 yea
+Saint Berdoodle,2,5,3,2,4,3,5,5,5,4,3,1,4,4,3,4,4,4,3,3,3,3,3,3,3,3,Mixed Breed Dogs,15 to 30 inches,40 to 180 pounds,8 to 12 years
+Saint Bernard,3,2,4,1,5,1,5,5,5,5,4,5,2,2,4,5,2,4,3,1,1,2,3,2,2,4,Working Dogs,"2 feet, 2 inches to 2 feet, 6 inches tall at the shoulder",120 to 180 pounds,8 to 10 years
+Saluki,1,2,5,1,2,3,5,4,4,1,2,1,4,4,1,4,4,4,4,5,1,5,5,2,5,5,Hound Dogs,"1 foot, 11 inches to 2 feet, 4 inches tall at the shoulder",35 to 70 pounds,12 to 14 years
+Samoyed,2,2,4,2,5,1,5,5,5,5,5,2,1,3,4,3,3,3,3,5,3,4,5,2,5,5,Working Dogs,"1 foot, 7 inches to 2 feet tall at the shoulder",50 to 60 pounds,12 to 14 years
+Schipperke,4,4,4,3,3,2,4,5,2,2,3,1,5,4,5,1,2,4,3,2,4,5,5,3,5,5,Companion Dogs,"10 inches to 1 foot, 3 inches tall at the shoulder",11 to 18 pounds,13 to 15 years
+Schnoodle,3,5,4,2,2,4,4,5,3,3,2,1,4,3,4,4,4,5,3,3,2,3,4,3,4,4,Hybrid Dogs,"1 foot, 3 inches to 2 feet, 2 inches tall at the shoulder",20 to 75 pounds,10 to 15 years
+Scottish Deerhound,1,1,3,2,4,4,5,4,2,5,5,1,2,3,4,5,2,3,4,5,1,4,5,5,5,5,Hound Dogs,"2 feet, 4 inches to 2 feet, 8 inches tall at the shoulder",75 to 110 pounds,8 to 11 years
+Scottish Terrier,4,2,4,3,4,3,5,4,4,4,2,1,2,4,3,2,1,4,3,3,4,5,4,4,4,4,Terrier Dogs,Up to 10 inches tall at the shoulder,18 to 22 pounds,11 to 13 years
+Sealyham Terrier,4,4,4,2,4,3,4,4,4,3,4,3,1,5,3,2,3,4,2,2,2,3,4,2,4,4,Terrier Dogs,Up to 10 inches tall at the shoulder,22 to 24 pounds,12 to 14 years
+Shepsky,1,1,4,2,4,3,5,4,3,4,4,2,3,4,2,4,4,5,4,4,3,2,5,4,5,5,Mixed Breed Dogs,20 to 25 inches,45 to 88 pounds,10 to 14 years
+Shetland Sheepdog,2,3,5,2,4,3,5,5,4,5,5,1,2,4,3,1,5,5,1,3,1,2,4,2,4,4,Herding Dogs,"1 foot, 1 inch to 1 foot, 4 inches tall at the shoulder",Starts at 20 pounds,12 to 15 years
+Shiba Inu,5,4,3,5,4,3,4,3,3,3,4,1,4,3,2,2,2,4,4,3,4,4,4,2,3,3,Companion Dogs,"1 foot, 1 inch to 1 foot, 5 inches tall at the shoulder",17 to 23 pounds,12 to 16 years
+Shih- Poo,5,2,4,2,3,2,5,3,2,4,1,1,2,3,4,1,2,4,3,2,2,2,3,1,2,4,Mixed Breed Dogs,8 to 18 inches,8 to 18 pounds,13 to 17+ years
+Shih Tzu,5,5,3,3,3,1,5,4,4,5,3,1,1,3,4,1,3,4,4,4,2,2,2,3,2,4,Companion Dogs,9 to 10 inches tall at the shoulder,9 to 16 pounds,10 to 16 years
+Shiranian,4,4,4,2,2,1,5,3,3,4,2,2,2,2,3,2,2,4,1,1,2,2,2,3,2,4,Mixed Breed Dogs,7 to 12 inches,4 to 16 pounds,12 to 16 years
+Shorkie,5,3,3,1,2,2,4,3,2,3,2,1,4,2,3,1,2,3,2,4,4,3,4,3,2,5,Mixed Breed Dogs,6 to 14 inches,5 to 15 pounds,11 to 16 years
+Siberian Husky,2,1,4,1,5,3,5,5,5,5,3,3,2,4,2,3,2,3,4,3,5,5,5,3,5,5,Working Dogs,"1 foot, 8 inches to 1 foot, 11 inches tall at the shoulder",35 to 60 pounds,12 to 15 years
+Silken Windhound,4,4,4,2,4,4,5,4,3,4,2,2,4,4,2,3,5,4,3,5,1,4,4,2,4,5,Hound Dogs,18 to 23.5 inches,20 to 55 pounds,14 to 20 years
+Silky Terrier,5,3,3,3,1,4,4,3,2,3,2,1,4,4,3,1,4,4,2,5,4,3,4,4,3,4,Companion Dogs,9 inches to 10 inches tall at the shoulder,8 to 10 pounds,12 to 15 years
+Skye Terrier,4,4,3,2,4,4,4,4,2,5,3,1,3,5,3,2,2,4,3,4,4,4,3,4,3,4,Terrier Dogs,9 inches to 10 inches tall at the shoulder,25 to 40 pounds,12 to 14 years
+Sloughi,4,2,4,3,2,3,5,5,4,3,3,1,5,3,2,4,3,4,3,5,2,3,5,3,5,3,Hound Dogs,"2 feet to 2 feet, 5 inches tall at the shoulder",40 to 63 pounds,12 to 16 years
+Small Munsterlander Pointer,1,2,3,4,5,3,5,5,5,4,3,1,3,5,3,3,5,5,3,5,3,4,4,5,5,4,Sporting Dogs,"1 foot, 7 inches to 1 foot, 10 inches tall at the shoulder",40 to 60 pounds,12 to 14 years
+Soft Coated Wheaten Terrier,5,4,4,2,2,3,5,5,5,5,2,1,3,4,3,3,4,4,2,3,3,4,4,3,4,5,Terrier Dogs,"1 foot, 5 inches to 1 foot, 7 inches tall at the shoulder",30 to 40 pounds,12 to 15 years
+Stabyhoun,2,3,4,3,2,2,5,5,4,3,3,1,3,5,3,3,5,5,1,4,3,3,3,4,4,5,Sporting Dogs,"1 foot, 7 inches to 1 foot, 8 inches tall at the shoulder",45 to 50 pounds,13 to 14 years
+Staffordshire Bull Terrier,3,1,4,2,3,1,5,5,1,5,3,3,5,3,4,2,2,3,2,2,3,4,3,3,4,5,Terrier Dogs,"1 foot, 2 inches to 1 foot, 4 inches tall at the shoulder",24 to 38 pounds,12 to 14 years
+Standard Schnauzer,4,2,4,2,4,4,4,4,3,2,1,1,2,5,1,3,3,5,3,5,2,5,5,3,5,5,Working Dogs,"1 foot, 5 inches to 1 foot, 8 inches tall at the shoulder",30 to 50 pounds,13 to 16 years
+Sussex Spaniel,5,5,5,1,5,5,5,5,5,5,3,1,4,4,5,2,3,5,2,1,4,1,2,1,2,4,Sporting Dogs,"1 foot, 1 inch to 1 foot, 3 inches tall at the shoulder",35 to 45 pounds,11 to 14 years
+Swedish Vallhund,3,1,3,3,4,3,5,4,3,5,4,1,5,4,4,3,5,5,2,4,1,3,5,3,5,5,Herding Dogs,"11 inches to 1 foot, 1 inch tall at the shoulder",22 to 35 pounds,12 to 15 years
+Tibetan Mastiff,1,1,5,1,5,2,5,5,5,2,2,2,4,3,4,5,1,5,5,3,2,3,4,2,2,5,Working Dogs,"2 feet to 2 feet, 2 inches tall at the shoulder",75 to 160 pounds,10 to 14 years
+Tibetan Spaniel,5,4,5,1,1,2,5,5,4,3,3,1,4,5,3,1,4,4,3,3,4,3,3,3,4,4,Companion Dogs,From 10 inches tall at the shoulder,9 to 15 pounds,12 to 15 years
+Tibetan Terrier,5,3,4,1,4,4,5,5,4,3,1,1,1,5,3,2,4,4,2,2,2,3,5,4,5,5,Companion Dogs,"1 foot, 2 inches to 1 foot, 4 inches tall at the shoulder",20 to 24 pounds,12 to 15 years
+Toy Fox Terrier,5,3,4,1,2,3,5,4,3,3,4,1,5,5,2,1,3,4,2,5,4,4,5,4,5,5,Companion Dogs,8 to 11 inches at the shoulder,3 to 7 pounds,13 to 14 years
+Treeing Tennessee Brindle,1,2,3,2,3,3,4,4,4,3,4,3,5,4,3,3,3,4,3,4,1,1,4,4,5,3,Hound Dogs,"1 foot, 4 inches to 2 feet tall at the shoulder",30 to 45 pounds,10 to 12 years
+Treeing Walker Coonhound,1,2,5,2,3,3,4,4,3,3,3,2,5,4,3,4,2,4,3,4,5,5,4,4,5,3,Hound Dogs,"1 foot, 8 inches to 2 feet, 3 inches tall at the shoulder",45 to 80 pounds,12 to 13 years
+Valley Bulldog,4,3,4,2,1,1,5,4,3,4,4,3,5,3,4,4,3,3,2,3,4,1,4,4,4,4,Mixed Breed Dogs,12 to 25 inches,50 to 125 pounds,8 to 12 years
+Vizsla,1,3,5,1,1,4,5,5,5,5,2,1,5,4,2,3,5,4,4,2,5,5,5,4,5,5,Sporting Dogs,"1 foot, 9 inches to 2 feet tall at the shoulder",45 to 65 pounds,10 to 14 years
+Weimaraner,1,2,5,1,3,4,5,4,3,3,4,4,5,3,2,4,4,5,5,5,2,5,5,5,5,5,Sporting Dogs,"1 foot, 11 inches to 2 feet, 3 inches tall at the shoulder",55 to 85 pounds,11 to 13 years
+Welsh Springer Spaniel,4,4,5,1,4,4,5,5,4,3,3,1,4,4,4,3,5,5,3,3,5,5,5,4,5,4,Sporting Dogs,"1 foot, 5 inches to 1 foot, 7 inches tall at the shoulder",35 to 55 pounds,10 to 15 years
+Welsh Terrier,3,3,3,2,2,2,4,5,5,4,2,1,2,5,3,2,3,5,2,5,4,4,5,5,5,5,Terrier Dogs,"1 foot, 2 inches to 1 foot, 3 inches tall at the shoulder",Up to 20 pounds,10 to 14 years
+West Highland White Terrier,4,4,4,2,4,3,5,4,5,3,4,1,3,3,4,2,4,4,2,4,4,3,4,4,4,4,Terrier Dogs,10 inches to 11 inches tall at the shoulder,13 to 22 pounds,12 to 16 years
+Westiepoo,3,4,4,1,3,3,4,4,4,4,1,1,5,4,4,2,4,4,3,4,3,3,4,4,4,5,Mixed Breed Dogs,11 to 17 inches,20 to 35 pounds,12 to 15 years
+Whippet,5,3,5,2,1,4,5,5,4,4,2,1,5,4,1,3,4,4,4,5,1,4,5,2,5,5,Hound Dogs,"1 foot, 6 inches to 1 foot, 10 inches tall at the shoulder",18 to 48 pounds,12 to 15 years
+Whoodle,4,1,3,1,4,2,4,4,3,4,2,1,3,4,2,3,2,4,1,2,1,3,4,4,4,4,Mixed Breed Dogs,12 to 20 inches,20 to 45 pounds,12 to 15 years
+Wirehaired Pointing Griffon,1,3,4,1,4,3,5,5,4,5,1,1,3,4,3,3,5,5,3,4,4,4,5,3,4,5,Sporting Dogs,"1 foot, 8 inches to 2 feet tall at the shoulder",50 to 60 pounds,10 to 14 years
+Xoloitzcuintli,5,1,5,1,3,3,5,3,2,1,5,1,5,5,3,3,3,5,3,5,5,5,3,3,3,3,Companion Dogs,"1 foot, 6 inches to 1 foot, 11 inches tall at the shoulder",10 to 50 pounds,14 to 20 years
+Yorkipoo,5,5,4,3,2,3,5,4,3,2,1,1,4,3,2,1,4,4,3,3,5,2,5,3,3,4,Hybrid Dogs,"7 inches to 1 foot, 3 inches tall at the shoulder",3 to 14 pounds,10 to 15 years
+Yorkshire Terrier,5,4,5,2,2,2,4,2,3,2,2,1,1,4,2,1,3,3,2,2,3,3,5,4,4,5,Companion Dogs,8 inches to 9 inches tall at the shoulder,4 to 6 pounds,12 to 15 years
