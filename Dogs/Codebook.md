@@ -1,28 +1,28 @@
 ## Codebook on the dogs dataset
 
-Informattion on all the variables in the data file
+Information on all the variables in the data file
 
-Descirptions on each variable and all data is obtained from [here](https://dogtime.com/)
+Descriptions on each variable and all data is obtained from [here](https://dogtime.com/)
 
-Every variable except the last four are rated on a scale of 1-5. 5 being the most favourable for an owner based on the variable, 1 being the least. 
+Every variable except the last four are rated on a scale of 1-5. 5 being the most favorable for an owner based on the variable, 1 being the least.
 
 Breed:
 
 What is the breed of the dog?
 
-Adapts well to appartment living:
+AdaptsWellToApartmentLiving:
 
 Contrary to popular belief, small size doesn't necessarily an apartment dog make — plenty of small dogs are too high-energy and yappy for life in a high-rise. Being quiet, low energy, fairly calm indoors, and polite with the other residents, are all good qualities in an apartment dog.
 
-Good For Novice Owners:
+GoodForNoviceOwners:
 
 Some dogs are simply easier than others: they take to training better and are fairly easygoing. They're also resilient enough to bounce back from your mistakes or inconsistencies. Dogs who are highly sensitive, independent thinking, or assertive may be harder for a first-time owner to manage. You'll get your best match if you take your dog-owning experience into account as you choose your new pooch.
 
-Sensitivity Level:
+SensitivityLevel:
 
 Some dogs will let a stern reprimand roll off their backs, while others take even a dirty look to heart. Low-sensitivity dogs, also called "easygoing," "tolerant," "resilient," and even "thick-skinned," can better handle a noisy, chaotic household, a louder or more assertive owner, and an inconsistent or variable routine. Do you have young kids, throw lots of dinner parties, play in a garage band, or lead a hectic life? Go with a low-sensitivity dog.
 
-Tolerates Being Alone:
+ToleratesBeingAlone:
 
 Some breeds bond very closely with their family and are more prone to worry or even panic when left alone by their owner. An anxious dog can be very destructive, barking, whining, chewing, and otherwise causing mayhem. These breeds do best when a family member is home during the day or if you can take the dog to work.
 
@@ -42,33 +42,33 @@ Incredibly Kid Friendly Dogs:
 
 Being gentle with children, sturdy enough to handle the heavy-handed pets and hugs they can dish out, and having a blasé attitude toward running, screaming children are all traits that make a kid-friendly dog. You may be surprised by who's on that list: Fierce-looking Boxers are considered good with children, as are American Staffordshire Terriers (aka pit bulls). Small, delicate, and potentially snappy dogs such as Chihuahuas aren't so family-friendly.
 
-**All dogs are individuals. Our ratings are generalizations, and they're not a guarantee of how any breed or individual dog will behave. Dogs from any breed can be good with children based on their past experiences, training on how to get along with kids, and personality. No matter what the breed or breed type, all dogs have strong jaws, sharp pointy teeth, and may bite in stressful circumstances. Young children and dogs of any breed should always be supervised by an adult and never left alone together, period.
+All dogs are individuals. Our ratings are generalizations, and they're not a guarantee of how any breed or individual dog will behave. Dogs from any breed can be good with children based on their past experiences, training on how to get along with kids, and personality. No matter what the breed or breed type, all dogs have strong jaws, sharp pointy teeth, and may bite in stressful circumstances. Young children and dogs of any breed should always be supervised by an adult and never left alone together, period.
 
-Dog Friendly:
+DogFriendly:
 
 Friendliness toward dogs and friendliness toward humans are two completely different things. Some dogs may attack or try to dominate other dogs even if they're love-bugs with people; others would rather play than fight; and some will turn tail and run. Breed isn't the only factor; dogs who lived with their littermates and mother until at least six to eight weeks of age and who spent lots of time playing with other dogs during puppyhood, are more likely to have good canine social skills.
 
-Friendly Toward Strangers:
+FriendlyTowardStrangers:
 
 Stranger-friendly dogs will greet guests with a wagging tail and a nuzzle; others are shy, indifferent, or even aggressive. However, no matter what the breed, a dog who was exposed to lots of different types, ages, sizes, and shapes of people as a puppy will respond better to strangers as an adult.
 
-Amount Of Shedding:
+AmountOfShedding:
 
-If you're going to share your home with a dog, you'll need to deal with some level of dog hair on your clothes and in your house. However, shedding does vary greatly among the breeds: Some dogs shed year-round, some "blow" seasonally -- produce a snowstorm of loose hair -- some do both, and some shed hardly at all. If you're a neatnik you'll need to either pick a low-shedding breed, or relax your standards.
+If you're going to share your home with a dog, you'll need to deal with some level of dog hair on your clothes and in your house. However, shedding does vary greatly among the breeds: Some dogs shed year-round, some "blow" seasonally -- produce a snowstorm of loose hair -- some do both, and some shed hardly at all. If you're a neat freak you'll need to either pick a low-shedding breed, or relax your standards.
 
-Drooling Potential:
+DroolingPotential:
 
-Drool-prone dogs may drape ropes of slobber on your arm and leave big, wet spots on your clothes when they come over to say hello. If you've got a laid-back attitude toward slobber, fine; but if you're a neatnik, you may want to choose a dog who rates low in the drool department.
+Drool-prone dogs may drape ropes of slobber on your arm and leave big, wet spots on your clothes when they come over to say hello. If you've got a laid-back attitude toward slobber, fine; but if you're a neat freak, you may want to choose a dog who rates low in the drool department.
 
-Easy To Groom:
+EasyToGroom:
 
 Some breeds are brush-and-go dogs; others require regular bathing, clipping, and other grooming just to stay clean and healthy. Consider whether you have the time and patience for a dog that needs a lot of grooming, or the money to pay someone else to do it.
 
-General Health:
+GeneralHealth:
 
 Due to poor breeding practices, some breeds are prone to certain genetic health problems, such as hip dysplasia. This doesn't mean that every dog of that breed will develop those diseases; it just means that they're at an increased risk. If you're buying a puppy, it's a good idea to find out which genetic illnesses are common to the breed you're interested in, so you can ask the breeder about the physical health of your potential pup's parents and other relatives.
 
-Potential For Weight Gain:
+PotentialForWeightGain:
 
 Some breeds have hearty appetites and tend to put on weight easily. As in humans, being overweight can cause health problems in dogs. If you pick a breed that's prone to packing on pounds, you'll need to limit treats, make sure he gets enough exercise, and measure out his daily kibble in regular meals rather than leaving food out all the time.
 
@@ -76,7 +76,7 @@ Size:
 
 Dogs come in all sizes, from the world's smallest pooch, the Chihuahua, to the towering Great Dane, how much space a dog takes up is a key factor in deciding if he is compatible with you and your living space. Large dog breeds might seem overpowering and intimidating but some of them are incredibly sweet! Take a look and find the right large dog for you!
 
-Easy To Train:
+EasyToTrain:
 
 Easy to train dogs are more adept at forming an association between a prompt (such as the word "sit"), an action (sitting), and a consequence (getting a treat) very quickly. Other dogs need more time, patience, and repetition during training. Many breeds are intelligent but approach training with a "What's in it for me?" attitude, in which case you'll need to use rewards and games to teach them to want to comply with your requests.
 
@@ -84,23 +84,23 @@ Intelligence:
 
 Dogs who were bred for jobs that require decision making, intelligence, and concentration, such as herding livestock, need to exercise their brains, just as dogs who were bred to run all day need to exercise their bodies. If they don't get the mental stimulation they need, they'll make their own work -- usually with projects you won't like, such as digging and chewing. Obedience training and interactive dog toys are good ways to give a dog a brain workout, as are dog sports and careers, such as agility and search and rescue.
 
-Potential For Mouthiness:
+PotentialForMouthiness:
 
 Common in most breeds during puppyhood and in retriever breeds at all ages, mouthiness means a tendency to nip, chew, and play-bite (a soft, fairly painless bite that doesn't puncture the skin). Mouthy dogs are more likely to use their mouths to hold or "herd" their human family members, and they need training to learn that it's fine to gnaw on chew toys, but not on people. Mouthy breeds tend to really enjoy a game of fetch, as well as a good chew on a chew toy that's been stuffed with kibble and treats.
 
-Prey Drive:
+PreyDrive:
 
 Dogs that were bred to hunt, such as terriers, have an inborn desire to chase and sometimes kill other animals. Anything whizzing by — cats, squirrels, perhaps even cars — can trigger that instinct. Dogs that like to chase need to be leashed or kept in a fenced area when outdoors, and you'll need a high, secure fence in your yard. These breeds generally aren't a good fit for homes with smaller pets that can look like prey, such as cats, hamsters, or small dogs. Breeds that were originally used for bird hunting, on the other hand, generally won't chase, but you'll probably have a hard time getting their attention when there are birds flying by.
 
-Tendency To Bark Or Howl:
+TendencyToBarkOrHowl:
 
 Some breeds sound off more often than others. When choosing a breed, think about how the dog vocalizes — with barks or howls — and how often. If you're considering a hound, would you find their trademark howls musical or maddening? If you're considering a watchdog, will a city full of suspicious "strangers" put him on permanent alert? Will the local wildlife literally drive your dog wild? Do you live in housing with noise restrictions? Do you have neighbors nearby?
 
-Wanderlust Potential:
+WanderlustPotential:
 
 Some breeds are more free-spirited than others. Nordic dogs such as Siberian Huskies were bred to range long distances, and given the chance, they'll take off after anything that catches their interest. And many hounds simply must follow their noses, or that bunny that just ran across the path, even if it means leaving you behind.
 
-Energy Level:
+EnergyLevel:
 
 High-energy dogs are always ready and waiting for action. Originally bred to perform a canine job of some sort, such as retrieving game for hunters or herding livestock, they have the stamina to put in a full workday. They need a significant amount of exercise and mental stimulation, and they're more likely to spend time jumping, playing, and investigating any new sights and smells. Low-energy dogs are the canine equivalent of a couch potato, content to doze the day away. When picking a breed, consider your own activity level and lifestyle, and think about whether you'll find a frisky, energetic dog invigorating or annoying.
 
@@ -108,15 +108,15 @@ Intensity:
 
 A vigorous dog may or may not be high-energy, but everything he does, he does with vigor: he strains on the leash (until you train him not to), tries to plow through obstacles, and even eats and drinks with great big gulps. These dynamos need lots of training to learn good manners, and may not be the best fit for a home with young kids or someone who's elderly or frail. A low-vigor dog, on the other hand, has a more subdued approach to life.
 
-Exercise Needs:
+ExerciseNeeds:
 
 Some breeds do fine with a slow evening stroll around the block. Others need daily, vigorous exercise -- especially those that were originally bred for physically demanding jobs, such as herding or hunting. Without enough exercise, these breeds may put on weight and vent their pent-up energy in ways you don't like, such as barking, chewing, and digging. Breeds that need a lot of exercise are good for outdoorsy, active people, or those interested in training their dog to compete in a high-energy dog sport, such as agility.
 
-Potential For Playfulness:
+PotentialForPlayfulness:
 
 Some dogs are perpetual puppies -- always begging for a game -- while others are more serious and sedate. Although a playful pup sounds endearing, consider how many games of fetch or tag you want to play each day, and whether you have kids or other dogs who can stand in as playmates for the dog.
 
-Dog Breed Group:
+DogBreedGroup:
 
 What is the classification of this breed?
 
@@ -128,6 +128,6 @@ Weight:
 
 How much do typical dogs of this breed weigh?
 
-Life Span:
+LifeSpan:
 
 How long does this breed typically live?
